@@ -1,0 +1,32 @@
+header{
+    background-image: url("./images/bg-masthead.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:650px;
+
+}
+
+#boutton-header{
+    margin-top:15px;
+    background-color: #60A39E;
+    padding: 10px 30px;
+}
+
+#header{
+    margin-top:170px;
+}
+
+header  h1{
+    font-family: 'Varela Round';
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: .8rem;
+    text-transform: uppercase!important;
+    
+    
+}
+
+header{
+    font-family: 'Varela Round';
+}
