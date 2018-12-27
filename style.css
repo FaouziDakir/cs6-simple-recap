@@ -81,5 +81,60 @@ body{
     margin-top:285px;
   }
 
+  #footer-image{
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(./images/demo-image-02.jpg);    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:350px;
+
+}
+
+footer{
+    background-color: #161616;
+    height:400px;
+
+}
+
+.subscribe{
+    margin-top:170px;
+}
 
 
+#boutton-footer{
+    background-color: #60A39E;
+    box-shadow: 0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
+    padding: 1.25rem 2rem;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+}
+
+#inputPassword2{
+    padding: 1.25rem 2rem;
+    height: auto;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+}
+
+.footer-box{
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    box-sizing: border-box;
+    display: block;
+    border-bottom: .25rem solid #64a19d;
+    padding-bottom: 1.5rem!important;
+    padding-top: 1.5rem!important;
+    
+}
+
+hr{
+    border-color: #64a19d;
+    border-width: .25rem;
+    width: 3rem;
+}
