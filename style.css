@@ -97,7 +97,7 @@ footer{
 }
 
 .subscribe{
-    margin-top:170px;
+    margin-top:70px;
 }
 
 
@@ -120,6 +120,7 @@ footer{
     text-transform: uppercase;
     letter-spacing: .15rem;
     border: 0;
+    margin-left:200px;
 }
 
 .footer-box{
