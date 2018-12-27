@@ -46,3 +46,40 @@ body{
     margin-right:250px;
     margin-left:250px;
 }
+
+.shoreline-text{
+    border-left: 8px solid aquamarine;
+    padding-left: 30px;
+
+}
+
+#test{
+    padding-top:90px;
+}
+
+.bg-melkor{
+    background-color:black;
+}
+
+.misty{
+    margin-top:150px;
+}
+
+#rectangle {
+    width: 100px;
+    height: 5px;
+    background: aquamarine;
+    margin-left:50px;
+  }
+
+  
+#rectangle2 {
+    width: 100px;
+    height: 5px;
+    background: aquamarine;
+    margin-left:390px;
+    margin-top:285px;
+  }
+
+
+
